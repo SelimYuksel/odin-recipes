@@ -1,0 +1,46 @@
+
+#header1 {
+    font-size: 34px;
+    color: rgb(171, 241, 218);
+    text-align: center;
+}
+
+#header1-para {
+    font-size: 26px;
+    text-align: center;
+}
+
+#header2 {
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+#recipe-list {
+    padding-top: 10%;
+    padding-left:30%;
+    font-size: 22px;
+     
+}
+
+#header1-para,
+#header2,
+#recipe-list {
+    color: white;
+}
+
+.logo {
+    text-align: center;
+}
+
+#logo {
+    width: 250px;
+    height: auto;
+}
+
+
+
+body {
+    background-color:rgb(8, 12, 14);
+    font-family: Verdana, Arial, Tahoma, sans-serif;
+}
