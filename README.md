@@ -1,1 +1,1 @@
-I have created a basic website which sharing some recipes.
+I have created a basic recipe website.
